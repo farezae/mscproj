@@ -1,4 +1,4 @@
 # mscproj 
-## submission : 21st aug 2025
+## submission date : 21st aug 2025
 
 
